@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QueenNilu;;;VrxhhKRS#YdW0jXXqUC0Ax8sy59ITI6h2cNmgOrYY7wxYyxrqCXY' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;Jv5wWBDD#oJD72HmXMseG8JhYw5KtA9bCyZI2e5b8oGcBK4Hcv1I' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = 'postgres://sakila_imantha_user:gUHjQ5gjXhEYyQwJ0eKwPRMMpbuovezI@dpg-ck7qnhnsasqs73c7llc0-a.frankfurt-postgres.render.com/sakila_imantha'
+global.POSTGRESQL_URL = 'postgres://sakko_user:H15oOtemtRHUK61ZqqW1d9UR18ha1n6K@dpg-ck835kvsasqs73cqdnt0-a.frankfurt-postgres.render.com/sakko'
 
 
 
@@ -80,7 +80,7 @@ global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
-global.AUTO_STICKER = false
+global.AUTO_STICKER = true
 
 global.AUTO_REPLY = true
 
